@@ -1,6 +1,0 @@
--- =========================================================
--- Project Name : Medical Data History
--- Project Type : Internship SQL Project
--- Description  : Query-based analysis of medical data
--- Author       : Akshay Rathod (Team Project)
--- =========================================================
