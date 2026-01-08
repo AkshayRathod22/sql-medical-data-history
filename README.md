@@ -30,7 +30,8 @@ All tasks are query-based and emphasize SQL logic, filtering, aggregation, and d
 - MySQL
 
 ## Project Files
-- `medical_queries.sql` – Contains all SQL queries written for the project
+• [medical_queries.sql](medical_queries.sql) – Contains all SQL queries written for the project
+
 
 ## Note
 This is a query-based SQL project. No dashboards or visualizations were created as the focus was on SQL data analysis and query writing.
