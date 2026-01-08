@@ -27,8 +27,7 @@ All tasks are query-based and emphasize SQL logic, filtering, aggregation, and d
 - Sort and format query results
 
 ## Tools Used
-- SQL
-- MySQL (or mention your DB if different)
+- MySQL
 
 ## Project Files
 - `medical_queries.sql` – Contains all SQL queries written for the project
